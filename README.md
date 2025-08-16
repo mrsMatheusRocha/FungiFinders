@@ -27,12 +27,5 @@ FungiFinders is a web application dedicated to the art and science of mushroom f
 - `styles/style.css`: Styling and layout
 - `main.js`: Navigation and resize functionality
 - `assets/`: Images, icons, and SVG logo
-
-## License
-This project is open-source and available under the MIT License.
-
-## Contact
-Questions or suggestions? Email: [contact@fungifinders.com](mailto:contact@fungifinders.com)
-
 ---
 ![FungiFinders Logo](assets/fungi-finders.svg)
